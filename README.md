@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="lofi coder banner"/>
+  <img src="./banner.png" width="60%" alt="lofi coder banner"/>
 </div>
 
 <br/>
