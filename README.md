@@ -42,47 +42,47 @@ I'm currently seeking **Software Engineering** and **Machine Learning Internship
 
 # 🚀 Projects
 
-## 🛍️ LookThePart · `Django` `DRF` `AWS S3` `MySQL`
+## 💳 Cashback Reconciler · `Python` `Flask` `SQLite` `Plaid` `JavaScript`
+
+> A trust-first cashback reconciliation platform that verifies whether cashback rewards from credit cards and merchant offers have actually been credited.
+
+- Built a deterministic reconciliation engine for matching transactions with cashback offers.
+- Developed merchant matching and reliability scoring to improve reconciliation accuracy.
+- Designed the backend architecture with Flask and SQLite for lightweight, scalable deployment.
+- Integrated the groundwork for Plaid and email parsing to automate transaction verification.
+
+---
+
+## 😊 Sentiment & Emotion Analyzer · `React` `Flask` `Transformers` `Hugging Face`
+
+> Full-stack NLP application that analyzes text sentiment and emotions using multiple transformer models.
+
+- Built a React frontend with a Flask backend for real-time text analysis.
+- Integrated multiple Hugging Face transformer models for sentiment and emotion prediction.
+- Implemented ensemble-based prediction to improve confidence across different models.
+- Designed a clean interface for comparing model outputs and confidence scores.
+
+---
+
+## 🎮 Dodge Survive · `Python` `Pygame` `Reinforcement Learning`
+
+> A custom survival game where a reinforcement learning agent learns to survive entirely through trial and error.
+
+- Designed and developed the complete game environment using Pygame.
+- Implemented a reinforcement learning agent capable of learning optimal survival strategies.
+- Built reward mechanisms and training loops for autonomous gameplay.
+- Used the project to explore practical reinforcement learning concepts from environment design to agent training.
+
+---
+
+## 🛍️ LookThePart · `Django` `Django REST Framework` `AWS S3` `MySQL`
 
 > Fashion discovery platform that lets users shop outfits inspired by movies and TV shows.
 
 - Designed and implemented **15+ relational database models** for products, entertainment, characters, collections, and posts.
 - Developed **50+ RESTful API endpoints** for authentication, product search, collections, and content management.
-- Built automated media processing pipelines using **AWS S3** and **Pillow** for image optimization and thumbnail generation.
-- Collaborated in a four-member Agile development team using Git and GitHub.
-
----
-
-## 🤖 DocChat — RAG Document Assistant · `LangChain` `Gemini` `FAISS` `Python`
-
-> AI-powered document question-answering system using Retrieval-Augmented Generation (RAG).
-
-- Built semantic search using **FAISS vector embeddings** for fast document retrieval.
-- Implemented intelligent document chunking and retrieval pipelines.
-- Designed prompt workflows to improve answer quality and reduce hallucinations.
-- Developed an intuitive interface for querying large PDF documents.
-
----
-
-## 📊 Distributed Car Price Prediction · `PySpark` `Hadoop` `Docker` `XGBoost`
-
-> Distributed machine learning pipeline for large-scale used car price prediction.
-
-- Built an end-to-end distributed ML pipeline using **Apache Spark**.
-- Performed feature engineering using **StringIndexer**, **OneHotEncoder**, and **VectorAssembler**.
-- Trained Gradient Boosted Tree and XGBoost models for price prediction.
-- Executed experiments on a Docker-based multi-node Hadoop cluster.
-
----
-
-## 🏥 Telemedicine Platform · `Flutter` `Firebase` `REST APIs`
-
-> Cross-platform healthcare application connecting doctors and patients remotely.
-
-- Developed appointment scheduling and consultation management features.
-- Integrated secure authentication and cloud-based data storage.
-- Built responsive cross-platform mobile interfaces using Flutter.
-- Collaborated in an Agile team throughout the software development lifecycle.
+- Built automated image processing pipelines using **AWS S3** and **Pillow** for media optimization and thumbnail generation.
+- Collaborated with a four-member Agile development team using Git and GitHub workflows.
 
 ---
 
