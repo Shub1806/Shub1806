@@ -32,7 +32,7 @@
 
 ## 🎓 About Me
 
-MS Computer Science student at **University at Buffalo** (AI/ML Track, GPA 3.5/4.0), previously B.E. in Computer Science from **Chandigarh University, India** (GPA 3.2/4.0). I build end-to-end systems — from distributed data pipelines to RAG-powered document QA to cross-platform mobile apps.
+MS Computer Science student at **University at Buffalo** (AI/ML Track, GPA 3.77/4.0), previously B.E. in Computer Science from **Chandigarh University, India** (GPA 3.2/4.0). I build end-to-end systems — from distributed data pipelines to RAG-powered document QA to cross-platform mobile apps.
 
 Currently open to new projects and collaborations.
 
