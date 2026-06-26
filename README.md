@@ -6,14 +6,14 @@
 
 <div align="center">
   <h1>👋 Hey, I'm Shubhojyoti Datta Chaudhuri</h1>
-  <h3>Full-Stack & ML Engineer · MS CS (AI/ML) @ University at Buffalo</h3>
+  <h3>Software Engineer • Full-Stack Developer • MS Computer Science @ University at Buffalo</h3>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7EC8E3&center=true&vCenter=true&width=600&height=32&lines=Building+full-stack+systems+that+scale;Django+%7C+LangChain+%7C+PySpark+%7C+Flutter;Open+to+new+projects+%26+collaborations)](https://github.com/Shub1806)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7EC8E3&center=true&vCenter=true&width=700&height=32&lines=Building+scalable+software+%26+AI-powered+applications;Django+%7C+Python+%7C+LangChain+%7C+PySpark+%7C+Flutter;Seeking+Software+Engineering+%26+ML+Internship+Opportunities)](https://github.com/Shub1806)
 
 </div>
 
@@ -30,48 +30,65 @@
 
 ---
 
-## 🎓 About Me
+# 🎓 About Me
 
-MS Computer Science student at **University at Buffalo** (AI/ML Track, GPA 3.77/4.0), previously B.E. in Computer Science from **Chandigarh University, India** (GPA 3.2/4.0). I build end-to-end systems — from distributed data pipelines to RAG-powered document QA to cross-platform mobile apps.
+I'm currently pursuing an **M.S. in Computer Science (AI/ML)** at the **University at Buffalo** (GPA: **3.77/4.0**). I enjoy building scalable software, AI-powered applications, and distributed systems that solve real-world problems.
 
-Currently open to new projects and collaborations.
+My interests span **Software Engineering, Backend Development, Machine Learning, Retrieval-Augmented Generation (RAG), and Distributed Computing**. I enjoy taking projects from idea to deployment—designing databases, building APIs, training ML models, and developing intuitive user experiences.
 
----
-
-## 🚀 Projects
-
-### 🛍️ LookThePart &nbsp;·&nbsp; `Django` `DRF` `AWS S3` `MySQL`
-> Fashion discovery platform — shop outfits straight from your favorite TV shows & movies.
-- Designed **15+ relational DB models** covering Entertainment, Characters, Products & Posts
-- Built **50+ RESTful API endpoints** for auth, product search, post sharing & collection management
-- Integrated **AWS S3** with automated Pillow-based image pipelines (cropping + thumbnail generation)
+I'm currently seeking **Software Engineering** and **Machine Learning Internship** opportunities.
 
 ---
 
-### 🤖 DocChat — RAG Document QA &nbsp;·&nbsp; `LangChain` `Gemini` `FAISS` `Python`
-> Natural language querying over complex PDFs using Retrieval-Augmented Generation.
-- **FAISS vector indexing** for sub-second semantic retrieval across embedded document chunks
-- Hybrid search pipelines + structured prompt chains to reduce hallucinated responses
+# 🚀 Projects
+
+## 🛍️ LookThePart · `Django` `DRF` `AWS S3` `MySQL`
+
+> Fashion discovery platform that lets users shop outfits inspired by movies and TV shows.
+
+- Designed and implemented **15+ relational database models** for products, entertainment, characters, collections, and posts.
+- Developed **50+ RESTful API endpoints** for authentication, product search, collections, and content management.
+- Built automated media processing pipelines using **AWS S3** and **Pillow** for image optimization and thumbnail generation.
+- Collaborated in a four-member Agile development team using Git and GitHub.
 
 ---
 
-### 📊 Distributed Car Price Prediction &nbsp;·&nbsp; `Hadoop` `PySpark` `Docker` `XGBoost`
-> Scalable ML pipeline on a simulated 3-node Hadoop cluster.
-- PySpark feature engineering: StringIndexer · OneHotEncoder · VectorAssembler
-- Gradient Boosted Tree model — R² improved from **71% → 99%**, MAE reduced to ~**$520**
+## 🤖 DocChat — RAG Document Assistant · `LangChain` `Gemini` `FAISS` `Python`
+
+> AI-powered document question-answering system using Retrieval-Augmented Generation (RAG).
+
+- Built semantic search using **FAISS vector embeddings** for fast document retrieval.
+- Implemented intelligent document chunking and retrieval pipelines.
+- Designed prompt workflows to improve answer quality and reduce hallucinations.
+- Developed an intuitive interface for querying large PDF documents.
 
 ---
 
-### 🏥 Telemedicine Platform &nbsp;·&nbsp; `Flutter` `REST API` `Encryption`
-> Cross-platform app enabling remote doctor–patient consultations.
-- Real-time appointment scheduling with automated booking management
-- Secure encrypted API layer — reduced security vulnerabilities by **99%**
+## 📊 Distributed Car Price Prediction · `PySpark` `Hadoop` `Docker` `XGBoost`
+
+> Distributed machine learning pipeline for large-scale used car price prediction.
+
+- Built an end-to-end distributed ML pipeline using **Apache Spark**.
+- Performed feature engineering using **StringIndexer**, **OneHotEncoder**, and **VectorAssembler**.
+- Trained Gradient Boosted Tree and XGBoost models for price prediction.
+- Executed experiments on a Docker-based multi-node Hadoop cluster.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏥 Telemedicine Platform · `Flutter` `Firebase` `REST APIs`
 
-**Languages**
+> Cross-platform healthcare application connecting doctors and patients remotely.
+
+- Developed appointment scheduling and consultation management features.
+- Integrated secure authentication and cloud-based data storage.
+- Built responsive cross-platform mobile interfaces using Flutter.
+- Collaborated in an Agile team throughout the software development lifecycle.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3d6b8c?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3d6b8c?style=flat-square&logo=postgresql&logoColor=white)
@@ -80,7 +97,7 @@ Currently open to new projects and collaborations.
 ![HTML](https://img.shields.io/badge/HTML-3d6b8c?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3d6b8c?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
 ![Django](https://img.shields.io/badge/Django-5c7a5c?style=flat-square&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-5c7a5c?style=flat-square&logo=django&logoColor=white)
@@ -89,7 +106,7 @@ Currently open to new projects and collaborations.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5c7a5c?style=flat-square&logo=opencv&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-5c7a5c?style=flat-square&logo=apachespark&logoColor=white)
 
-**Databases & Infra**
+### Databases & Infrastructure
 
 ![MySQL](https://img.shields.io/badge/MySQL-8c6b3d?style=flat-square&logo=mysql&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-8c6b3d?style=flat-square&logoColor=white)
@@ -99,7 +116,7 @@ Currently open to new projects and collaborations.
 ![Hadoop](https://img.shields.io/badge/Hadoop-8c6b3d?style=flat-square&logo=apachehadoop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-8c6b3d?style=flat-square&logo=figma&logoColor=white)
 
-**ML & Concepts**
+### Machine Learning & Concepts
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-7a5c8c?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-7a5c8c?style=flat-square&logoColor=white)
@@ -109,28 +126,50 @@ Currently open to new projects and collaborations.
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-**Graduate Student Developer** — *LookThePart (CSE 611)* &nbsp;·&nbsp; Jan 2026 – May 2027 &nbsp;·&nbsp; Buffalo, NY
-> Django full-stack fashion discovery platform · 15+ DB models · 50+ REST endpoints · AWS S3 · Team of 4
+### Graduate Student Developer
+**LookThePart – University at Buffalo**
 
-**Public Safety Aide** — *University at Buffalo Police Department* &nbsp;·&nbsp; Dec 2025 – Present &nbsp;·&nbsp; Buffalo, NY
-> Safety ops for 30,000+ student community · Incident logging · Patrol coordination · Event support
+**Jan 2026 – May 2026** • Buffalo, NY
+
+- Developed backend services using Django and Django REST Framework.
+- Designed relational database schemas and REST APIs.
+- Integrated AWS S3 for media storage and image processing.
+- Collaborated with a four-member Agile development team using Git.
 
 ---
 
-## 📜 Certifications
+### Public Safety Aide
+**University at Buffalo Police Department**
+
+**Dec 2025 – Present** • Buffalo, NY
+
+- Support campus safety operations for students, faculty, and visitors.
+- Assist officers with incident documentation and event coordination.
+- Help maintain a safe and welcoming campus environment.
+
+---
+
+# 📜 Certifications
 
 | Certification | Issuer |
-|---|---|
-| 🥈 Elite + Silver — Introduction to IoT | NPTEL · IIT Kharagpur |
-| 👁️ Computer Vision & Image Processing | IBM · Coursera |
-| 📊 Data Visualization with Tableau | UC Davis · Coursera |
-| 🔢 Discrete Mathematics | NPTEL · IIT Ropar |
+| --- | --- |
+| 🥈 Elite + Silver – Introduction to Internet of Things | NPTEL (IIT Kharagpur) |
+| 👁️ Computer Vision & Image Processing | IBM |
+| 📊 Data Visualization with Tableau | University of California, Davis |
+| 🔢 Discrete Mathematics | NPTEL (IIT Ropar) |
 
 ---
 
 <div align="center">
-  <i>Always building. Always learning.</i><br/>
-  <b>Let's connect →</b> <a href="mailto:2002datta@gmail.com">2002datta@gmail.com</a>
+
+### 💡 Always Learning. Always Building.
+
+Passionate about building scalable software, AI-powered applications, and impactful technology.
+
+**📩 Let's Connect**
+
+**Email:** <a href="mailto:2002datta@gmail.com">2002datta@gmail.com</a>
+
 </div>
