@@ -9,21 +9,19 @@
   <h3>Software Engineer • Backend, Full-Stack & AI/ML Systems • MS Computer Science @ University at Buffalo</h3>
 </div>
 <br/>
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7EC8E3&center=true&vCenter=true&width=700&height=32&lines=Measuring+GPU+energy+per+LLM+request+in+Rust;Distributed+backends+%7C+Full-stack+apps+%7C+AI%2FML+systems;Rust+%7C+Python+%7C+TypeScript+%7C+CUDA+%7C+Triton;Graduating+Feb+2027+%E2%80%94+open+to+SWE+%26+ML+roles)](https://github.com/Shub1806)
- 
-</div>
-<br/>
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shubhojyoti-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhojyotidatta)
-[![Gmail](https://img.shields.io/badge/-shubdc1806@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubdc1806@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Shub1806-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shub1806)
-[![Buffalo NY](https://img.shields.io/badge/-Buffalo%2C%20NY-6c757d?style=flat-square&logo=googlemaps&logoColor=white)]()
- 
-</div>
----
- 
+<p align="center">
+  <a href="https://github.com/Shub1806">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3000&amp;pause=800&amp;color=7EC8E3&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=32&amp;lines=Measuring+GPU+energy+per+LLM+request+in+Rust;Distributed+backends+%7C+Full-stack+apps+%7C+AI%2FML+systems;Rust+%7C+Python+%7C+TypeScript+%7C+CUDA+%7C+Triton;Graduating+Feb+2027+%E2%80%94+open+to+SWE+%26+ML+roles" alt="Typing SVG"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://shubhojyoti-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shubhojyotidatta"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shubdc1806@gmail.com"><img src="https://img.shields.io/badge/-shubdc1806@gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/Shub1806"><img src="https://img.shields.io/badge/-Shub1806-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/-Buffalo%2C%20NY-6c757d?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Buffalo NY"/>
+</p>
+<hr/>
 # 🎓 About Me
  
 I'm a software engineer with a **12-month software engineering internship** and a **client project** behind me, currently pursuing an **M.S. in Computer Science (AI/ML Track)** at the **University at Buffalo**, graduating **February 2027**.
@@ -163,13 +161,9 @@ Data Structures & Algorithms • Object-Oriented Programming • Operating Syste
 ---
  
 <div align="center">
-### 💡 Always Learning. Always Building.
- 
-Debugging to root cause, shipping with tests, and building systems that hold up.
- 
-**📩 Let's Connect**
- 
-**Email:** <a href="mailto:shubdc1806@gmail.com">shubdc1806@gmail.com</a> • **Portfolio:** <a href="https://shubhojyoti-portfolio.vercel.app">shubhojyoti-portfolio.vercel.app</a>
- 
+  <h3>💡 Always Learning. Always Building.</h3>
+  <p>Debugging to root cause, shipping with tests, and building systems that hold up.</p>
+  <p><b>📩 Let's Connect</b></p>
+  <p><b>Email:</b> <a href="mailto:shubdc1806@gmail.com">shubdc1806@gmail.com</a> • <b>Portfolio:</b> <a href="https://shubhojyoti-portfolio.vercel.app">shubhojyoti-portfolio.vercel.app</a></p>
 </div>
  
